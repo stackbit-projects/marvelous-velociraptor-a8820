@@ -20,11 +20,6 @@
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
             }
         ],
         "has_social": true,
