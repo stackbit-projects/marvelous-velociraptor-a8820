@@ -22,7 +22,7 @@ sections:
     posts_number: 4
     actions: []
 seo:
-  title: Stackbit Fresh Theme
+  title: EX-33.com
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
