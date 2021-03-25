@@ -23,7 +23,7 @@ sections:
     actions: []
 seo:
   title: EX-33.com
-  description: The preview of the Fresh theme
+  description: Explore More.
   extra:
     - name: 'og:type'
       value: website
