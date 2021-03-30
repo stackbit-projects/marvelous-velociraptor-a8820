@@ -10,11 +10,9 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Welcome to EX-33. We like to go outside and get that Vitamin D. Spendin'
+      time daily in the trees. Consider droppin' a sub if you please.
     actions: []
   - section_id: recent-posts
     type: section_posts
